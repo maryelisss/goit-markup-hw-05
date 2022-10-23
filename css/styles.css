@@ -529,13 +529,11 @@ img {
 }
 .modal-close-button {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 8px;
+  right: 8px;
   background: none;
   border: none;
   cursor: pointer;
-  margin-top: 8px;
-  margin-right: 8px;
   padding: 0;
 }
 
